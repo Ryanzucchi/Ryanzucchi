@@ -89,8 +89,7 @@ Tenho interesse especial por **arquitetura de software limpa**, **desenvolviment
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryanzucchi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-profile-summary-cards-taupe.vercel.app/api/cards/most-commit-language?username=Ryanzucchi&theme=tokyonight"/>
+![GitHub Contributions](https://ghchart.rshah.org/6366f1/Ryanzucchi)
 
 </div>
 
