@@ -89,15 +89,10 @@ Tenho interesse especial por **arquitetura de software limpa**, **desenvolviment
 
 <div align="center">
 
-![GitHub Contributions](https://ghchart.rshah.org/6366f1/Ryanzucchi)
+![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Ryanzucchi&theme=dark&stats=false)
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ryanzucchi&theme=tokyonight&hide_border=true&locale=pt_BR&background=0D1117)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
