@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ryan-zucchi-8a1a3b1b3">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Ryanzucchi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ryanzucchi&style=for-the-badge&color=6366f1&label=VISITAS" />
+  <img src="https://komarev.com/ghpvc/?username=Ryanzucchi&style=for-the-badge&color=6366f1&label=VISITAS" alt="Visitas" />
 </p>
 
 </div>
@@ -24,27 +24,11 @@ Desenvolvedor **Full Stack** com foco em **PHP, Laravel e JavaScript**, cursando
 
 Tenho interesse especial por **arquitetura de software limpa**, **desenvolvimento de jogos** e na construção de ferramentas que resolvam problemas reais da forma mais direta possível.
 
-```text
-💼  Foco atual    →  Laravel · React · Docker · Filament · Nginx
-🎓  Graduação     →  Ciência da Computação (em andamento)
-🔬  Pesquisa      →  Simulação de redes com NS-3 · Cidades inteligentes
-🎮  Hobby         →  Desenvolvimento de jogos · Arquitetura de software
-📍  Localização   →  Brasil
-```
-
----
-
-## 🚀 O que eu faço
-
-<div align="center">
-
-| 🌐 Web Full Stack | 🎨 Admin UI | ⚙️ APIs |
-|:---:|:---:|:---:|
-| Laravel + React do banco à interface | Painéis com Filament — CRUD, dashboards | REST com Laravel e FastAPI |
-| **🗄️ Banco de Dados** | **🐳 DevOps** | **📊 Monitoramento** |
-| PostgreSQL · MySQL · Oracle | Docker · Nginx · Linux | Prometheus + Grafana |
-
-</div>
+### 🌱 Foco e Estudos
+- 🏗️ **Arquitetura Laravel:** DDD, CQRS, Event Sourcing
+- 🎮 **Game Dev:** Mecânicas, Física, Engines
+- 🤖 **IA Aplicada:** Sistemas interativos, Geração procedural
+- 🌆 **Redes & Simulação:** NS-3, Cidades inteligentes
 
 ---
 
@@ -91,44 +75,23 @@ Tenho interesse especial por **arquitetura de software limpa**, **desenvolviment
 
 ![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Ryanzucchi&theme=dark&stats=false)
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryanzucchi/Ryanzucchi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryanzucchi/Ryanzucchi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ryanzucchi/Ryanzucchi/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
-
----
-
-## 🌱 Atualmente estudando
-
-```text
-🏗️  Arquitetura Laravel   →  DDD · CQRS · Event Sourcing
-🎮  Game Dev              →  Mecânicas · Física · Engines
-🤖  IA Aplicada           →  Sistemas interativos · Geração procedural
-🌆  Redes & Simulação     →  NS-3 · Cidades inteligentes
-✅  Qualidade de Código   →  Testes · Refatoração · Boas práticas
-```
-
----
-
-## 💬 Filosofia
+<br/>
 
 <div align="center">
-
-> *"A melhor solução não é a mais complexa,*
-> *mas a que continua funcionando quando o projeto cresce."*
-
+  <blockquote>
+    <em>"A melhor solução não é a mais complexa, mas a que continua funcionando quando o projeto cresce."</em>
+  </blockquote>
 </div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conversar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-zucchi-8a1a3b1b3)
-[![GitHub](https://img.shields.io/badge/GitHub-Ryanzucchi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryanzucchi)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer"/>
